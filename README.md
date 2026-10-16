@@ -26,6 +26,7 @@ Free, important notes for the **IIT Madras BS qualifier exam**: every formula, r
 
 - [IITM BS PYQ topics](https://github.com/Btechi/iitm-bs-pyq-topics): the most repeated topics and question types for 44 courses
 - [Awesome IITM BS](https://github.com/Btechi/awesome-iitm-bs): a curated list of IITM BS resources
+- [Data analyst notes](https://github.com/Btechi/data-analyst-notes): Python, SQL, Excel, Power BI, statistics and ML
 
 ## Qualifier rules in short
 
