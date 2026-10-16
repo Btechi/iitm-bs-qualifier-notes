@@ -22,6 +22,11 @@ Free, important notes for the **IIT Madras BS qualifier exam**: every formula, r
 - [Free IITM BS qualifier mock tests](https://www.btechi.in/qualifier): real past qualifier papers, timed, with a pass or not-yet result against the cutoff
 - [Previous-year papers for every course](https://www.btechi.in/pyqs), Foundation to Degree, with the official answer key
 
+## More from BTechi on GitHub
+
+- [IITM BS PYQ topics](https://github.com/Btechi/iitm-bs-pyq-topics): the most repeated topics and question types for 44 courses
+- [Awesome IITM BS](https://github.com/Btechi/awesome-iitm-bs): a curated list of IITM BS resources
+
 ## Qualifier rules in short
 
 To qualify, a General-category candidate needs at least 40% in every course and at least 50% on average across the four courses. Cutoffs are lower for other categories. Rules can change, so always check the official [IIT Madras BS website](https://study.iitm.ac.in/).
